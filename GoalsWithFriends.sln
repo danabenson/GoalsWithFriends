@@ -5,6 +5,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoalsWithFriends.Web", "Goa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoalsWithFriends.Core", "GoalsWithFriends.Core\GoalsWithFriends.Core.csproj", "{3F2631A0-78FA-45F3-9DDA-07A0231B88B4}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F27A9EC7-B828-416C-B690-B8642B7B8AEF}"
+	ProjectSection(SolutionItems) = preProject
+		GoalsWithFriends.msbuild = GoalsWithFriends.msbuild
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
